@@ -1,0 +1,152 @@
+.divone {
+  background-color: red;
+  height: 200px;
+  width: 200px;
+  margin-bottom: 15px;
+}
+.divtwo {
+  background-color: green;
+  height: 200px;
+  width: 200px;
+  border-radius: 100px;
+  margin-bottom: 15px;
+}
+.Satisfaction {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 15px;
+  color: black;
+}
+.divthree {
+  border-style: solid;
+  border-color: bisque;
+  width: 300px;
+}
+.yes {
+  margin-left: 15px;
+  margin-bottom: 15px;
+}
+button {
+  cursor: pointer;
+}
+.divfour{
+  background-color: rgb(34, 34, 34);
+  width: 400px;
+  text-align: center;
+}
+p {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.add{
+  color: rgb(133, 133, 133);
+  margin-top: 0px;
+  padding-left: 15px;
+  padding-bottom: 15px;
+}
+.install{
+  font-size: 25px;
+  padding-top: 20px;
+  padding-left: 15px;
+  margin-bottom: 10px;
+}
+.divI{
+  width: 150px;
+  height: auto;
+  box-shadow: 0px 0px 10px black;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  display: inline-block;
+}
+.Dragoula {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
+.name{
+  color: black;
+  margin-top: 0px;
+  font-weight: bold;
+  margin-bottom: 3.5px;
+  margin-left: 5px;
+}
+.mutual{
+  color: rgb(158, 158, 158);
+  margin-top: 0px;
+  margin-bottom: 10px;
+  font-size: 15px;
+  margin-left: 5px;
+}
+.addf {
+  color: white;
+  background-color: rgb(13, 106, 255);
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 20px;
+  padding-left: 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-left: 5px;
+  margin-bottom: 5px;
+}
+.cowboy {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  margin-bottom: 10px;
+  object-position: left;
+}
+.nanami {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
+.google_logo{
+  height: 100px;
+  margin-bottom: 15px;
+}
+.google_logoo{
+  text-align: center;
+}
+.search {
+  text-align: center;
+}
+.search_bar {
+  border: none;
+  font-size: 25px;
+  width: 700px;
+  box-shadow: 0px 0px 5px rgb(52, 52, 52);
+  padding-left: 15px;
+  padding-bottom: 15px;
+  padding-top: 15px;
+  border-radius: 30px;
+  margin-bottom: 30px;
+}
+.buttons {
+  text-align: center;
+}
+.google_search {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  background-color: rgba(202, 202, 202, 0.584);
+  padding-left: 20px;
+  padding-bottom: 13px;
+  padding-right: 20px;
+  padding-top: 13px;
+  border: none;
+  cursor: pointer;
+  margin-right: 15px;
+}
+.feeling_lucky {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  background-color: rgba(202, 202, 202, 0.584);
+  padding-left: 20px;
+  padding-bottom: 13px;
+  padding-right: 20px;
+  padding-top: 13px;
+  border: none;
+  cursor: pointer;
+}

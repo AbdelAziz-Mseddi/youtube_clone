@@ -1,0 +1,96 @@
+p {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.add{
+  color: rgb(133, 133, 133);
+  margin-top: 0px;
+  padding-left: 15px;
+  padding-bottom: 15px;
+}
+.install{
+  font-size: 25px;
+  padding-top: 20px;
+  padding-left: 15px;
+  margin-bottom: 10px;
+}
+.divI{
+  width: 150px;
+  height: auto;
+  box-shadow: 0px 0px 10px black;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  display: inline-block;
+}
+.Dragoula {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
+.name{
+  color: black;
+  margin-top: 0px;
+  font-weight: bold;
+  margin-bottom: 3.5px;
+  margin-left: 5px;
+  height: 18.4px;
+}
+.mutual{
+  color: rgb(158, 158, 158);
+  margin-top: 0px;
+  font-size: 15px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+}
+.addf {
+  color: white;
+  background-color: rgb(13, 106, 255);
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 20px;
+  padding-left: 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-left: 5px;
+  margin-bottom: 5px;
+}
+.cowboy {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  margin-bottom: 10px;
+  object-position: left;
+}
+.nanami {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
+.mutual_info {
+  display: grid;
+  grid-template-columns: 30px 1fr;
+  align-items: center;
+  margin-bottom: 5px;
+  margin-left: 5px;
+  column-gap: 5px;
+}
+.mutualf {
+  width: 30px;
+  border-radius: 15px;
+  object-fit: cover;
+  object-position: top;
+}
+.part {
+  opacity: 0.3;
+  color: rgb(101, 53, 146);
+}
+.whole {
+  width: 0.5fr;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 16px;
+  row-gap: 40px;
+}
